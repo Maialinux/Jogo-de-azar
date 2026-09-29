@@ -1,4 +1,4 @@
-# Jogo de Sorte - Linux
+# Jogo de Azar - Linux
 <br>
 <p>
   Gambling game simulator built in C. Version 0.1.0
